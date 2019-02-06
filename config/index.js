@@ -43,7 +43,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/dingledev',
+    assetsPublicPath: 'https://tothepoweroftom.github.io/dingledev',
 
     /**
      * Source Maps
